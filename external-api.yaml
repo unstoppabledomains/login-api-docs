@@ -1755,23 +1755,23 @@ components:
     oauth2:
       flows:
         authorizationCode:
-          authorizationUrl: https://hydra.demo.ory.sh/oauth2/auth
+          authorizationUrl: TBD
           scopes:
             offline: >-
               A scope required when requesting refresh tokens (alias for
               `offline_access`)
             offline_access: A scope required when requesting refresh tokens
             openid: Request an OpenID Connect ID Token
-          tokenUrl: https://hydra.demo.ory.sh/oauth2/token
+          tokenUrl: TBD
       type: oauth2
 info:
   contact:
-    email: hi@ory.sh
+    email: dev@unstoppabledomains.com
   description: |
-    Documentation for all of Ory Oathkeeper's APIs.
+    Login with Unstoppable API requires you to register or submit your application to the Unstoppable Domains applications database. To get your application registered and configure your login client check the following [guide](https://docs.unstoppabledomains.com/login-with-unstoppable/get-started-login/register-your-application).
   license:
     name: Apache 2.0
-  title: Ory Oathkeeper API
+  title: Login with Unstoppable API
   version: ''
 openapi: 3.0.3
 paths:
