@@ -1768,7 +1768,8 @@ info:
   contact:
     email: dev@unstoppabledomains.com
   description: |
-    For more information on how to register and configure your login client, see the following [guide](https://docs.unstoppabledomains.com/login-with-unstoppable/login-integration-guides/login-client-configuration/).
+    For more information on adding Login With Unstoppable to your applications,
+    see the [Login Integration Pathways](https://docs.unstoppabledomains.com/login-with-unstoppable/get-started-login/integration-pathways/).
   license:
     name: Apache 2.0
   title: Login with Unstoppable API
