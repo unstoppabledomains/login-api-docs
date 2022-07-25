@@ -1774,7 +1774,9 @@ info:
     name: Apache 2.0
   title: Login with Unstoppable API
   version: ''
-openapi: 3.0.3
+openapi: 3.0.0
+servers:
+  - url: https://auth.unstoppabledomains.com
 paths:
   /.well-known/jwks.json:
     get:
