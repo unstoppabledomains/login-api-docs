@@ -3,9 +3,7 @@ components:
     emptyResponse:
       description: >-
         Empty responses are sent when, for example, resources are deleted. The
-        HTTP status code for empty responses is
-
-        typically 201.
+        HTTP status code for empty responses is typically 201.
     handledConsentRequestList:
       content:
         application/json:
@@ -1766,7 +1764,7 @@ components:
       type: oauth2
 info:
   contact:
-    email: dev@unstoppabledomains.com
+    email: partnerengineering@unstoppabledomains.com
   description: |
     For more information on adding Login With Unstoppable to your applications,
     see the [Login Integration Pathways](https://docs.unstoppabledomains.com/login-with-unstoppable/get-started-login/integration-pathways/).
